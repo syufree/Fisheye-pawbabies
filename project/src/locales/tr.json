@@ -1,0 +1,28 @@
+{
+  "title": "Balık Gözü Evcil Hayvanlar",
+  "subtitle": "Onları canlanırken görmek için herhangi bir hayvan kartını balık gözü lensine sürükleyip bırakın!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Tavşan",
+    "guineaPig": "Guinea Pig",
+    "kitten": "Kedi Yavrusu",
+    "puppy": "Köpek Yavrusu",
+    "ferret": "Gelincik",
+    "hedgehog": "Kirpi",
+    "chinchilla": "Çinçilla",
+    "parrot": "Papağan",
+    "turtle": "Kaplumbağa",
+    "redPanda": "Kızıl Panda",
+    "otter": "Su Samuru",
+    "sugarGlider": "Şeker Planörü",
+    "hamsterBaby": "Yavru Hamster",
+    "bunnyBaby": "Yavru Tavşan",
+    "penguin": "Penguen",
+    "squirrel": "Sincap",
+    "fox": "Tilki",
+    "seal": "Fok",
+    "koala": "Koala"
+  },
+  "dropHere": "Oynatmak için buraya bırakın!",
+  "languageSelector": "Dil Seçin"
+} 

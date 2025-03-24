@@ -1,0 +1,28 @@
+{
+  "title": "Haiwan Peliharaan Mata Ikan",
+  "subtitle": "Seret dan lepaskan kad haiwan ke dalam lensa mata ikan untuk melihat mereka hidup!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Arnab",
+    "guineaPig": "Tikus Belanda",
+    "kitten": "Anak Kucing",
+    "puppy": "Anak Anjing",
+    "ferret": "Ferret",
+    "hedgehog": "Landak Mini",
+    "chinchilla": "Chinchilla",
+    "parrot": "Burung Nuri",
+    "turtle": "Penyu",
+    "redPanda": "Panda Merah",
+    "otter": "Memerang",
+    "sugarGlider": "Sugar Glider",
+    "hamsterBaby": "Bayi Hamster",
+    "bunnyBaby": "Bayi Arnab",
+    "penguin": "Penguin",
+    "squirrel": "Tupai",
+    "fox": "Rubah",
+    "seal": "Anjing Laut",
+    "koala": "Koala"
+  },
+  "dropHere": "Lepaskan di sini untuk bermain!",
+  "languageSelector": "Pilih Bahasa"
+} 

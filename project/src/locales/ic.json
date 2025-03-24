@@ -1,0 +1,28 @@
+{
+  "title": "Fiskauga Gæludýr",
+  "subtitle": "Dragðu og slepptu dýrakorti í fiskaugalinsuna til að sjá þau lifna við!",
+  "animals": {
+    "hamster": "Hamstur",
+    "rabbit": "Kanína",
+    "guineaPig": "Naggrís",
+    "kitten": "Kettlingur",
+    "puppy": "Hvolpur",
+    "ferret": "Fretta",
+    "hedgehog": "Broddgöltur",
+    "chinchilla": "Chinchilla",
+    "parrot": "Páfagaukur",
+    "turtle": "Skjaldbaka",
+    "redPanda": "Rauður Panda",
+    "otter": "Otur",
+    "sugarGlider": "Sykurflugvél",
+    "hamsterBaby": "Hamstursungi",
+    "bunnyBaby": "Kanínuungi",
+    "penguin": "Mörgæs",
+    "squirrel": "Íkorni",
+    "fox": "Refur",
+    "seal": "Selur",
+    "koala": "Kóalabjörn"
+  },
+  "dropHere": "Slepptu hér til að spila!",
+  "languageSelector": "Veldu tungumál"
+} 

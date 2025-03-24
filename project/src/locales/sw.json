@@ -1,0 +1,28 @@
+{
+  "title": "Wanyama Vipenzi wa Jicho la Samaki",
+  "subtitle": "Buruta na udondoshe kadi yoyote ya mnyama kwenye lensi ya jicho la samaki ili uwaone wakiwa hai!",
+  "animals": {
+    "hamster": "Hamsta",
+    "rabbit": "Sungura",
+    "guineaPig": "Nguruwe wa Guinea",
+    "kitten": "Kitoto cha Paka",
+    "puppy": "Mtoto wa Mbwa",
+    "ferret": "Fereti",
+    "hedgehog": "Nungunungu",
+    "chinchilla": "Chinchila",
+    "parrot": "Kasuku",
+    "turtle": "Kasa",
+    "redPanda": "Panda Nyekundu",
+    "otter": "Fisi Maji",
+    "sugarGlider": "Panya Mruka",
+    "hamsterBaby": "Mtoto wa Hamsta",
+    "bunnyBaby": "Mtoto wa Sungura",
+    "penguin": "Pengwini",
+    "squirrel": "Kindi",
+    "fox": "Mbweha",
+    "seal": "Nyangumi",
+    "koala": "Koala"
+  },
+  "dropHere": "Dondosha hapa ili kucheza!",
+  "languageSelector": "Chagua Lugha"
+} 

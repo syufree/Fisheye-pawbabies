@@ -1,0 +1,28 @@
+{
+  "title": "Žuvies Akies Augintiniai",
+  "subtitle": "Tempkite ir meskite bet kurią gyvūno kortelę į žuvies akies objektyvą, kad pamatytumėte juos atgyjant!",
+  "animals": {
+    "hamster": "Žiurkėnas",
+    "rabbit": "Triušis",
+    "guineaPig": "Jūrų Kiaulytė",
+    "kitten": "Kačiukas",
+    "puppy": "Šuniukas",
+    "ferret": "Šeškas",
+    "hedgehog": "Ežys",
+    "chinchilla": "Šinšila",
+    "parrot": "Papūga",
+    "turtle": "Vėžlys",
+    "redPanda": "Raudonoji Panda",
+    "otter": "Ūdra",
+    "sugarGlider": "Cukrinis Sklandytuvas",
+    "hamsterBaby": "Mažas Žiurkėnas",
+    "bunnyBaby": "Mažas Triušis",
+    "penguin": "Pingvinas",
+    "squirrel": "Voverė",
+    "fox": "Lapė",
+    "seal": "Ruonis",
+    "koala": "Koala"
+  },
+  "dropHere": "Meskite čia, kad žaistumėte!",
+  "languageSelector": "Pasirinkite kalbą"
+} 

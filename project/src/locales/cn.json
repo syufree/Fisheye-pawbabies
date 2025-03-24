@@ -1,0 +1,28 @@
+{
+  "title": "鱼眼萌宠",
+  "subtitle": "将动物卡片拖放到鱼眼镜头中，看它们栩栩如生！",
+  "animals": {
+    "hamster": "仓鼠",
+    "rabbit": "兔子",
+    "guineaPig": "豚鼠",
+    "kitten": "小猫",
+    "puppy": "小狗",
+    "ferret": "雪貂",
+    "hedgehog": "刺猬",
+    "chinchilla": "龙猫",
+    "parrot": "鹦鹉",
+    "turtle": "乌龟",
+    "redPanda": "小熊猫",
+    "otter": "水獭",
+    "sugarGlider": "糖袋鼯",
+    "hamsterBaby": "小仓鼠",
+    "bunnyBaby": "小兔子",
+    "penguin": "企鹅",
+    "squirrel": "松鼠",
+    "fox": "狐狸",
+    "seal": "海豹",
+    "koala": "考拉"
+  },
+  "dropHere": "放在这里开始玩！",
+  "languageSelector": "选择语言"
+} 

@@ -1,0 +1,28 @@
+{
+  "title": "Kalansilmä Lemmikit",
+  "subtitle": "Vedä ja pudota mikä tahansa eläinkortti kalansilmälinssiin nähdäksesi niiden heräävän eloon!",
+  "animals": {
+    "hamster": "Hamsteri",
+    "rabbit": "Kani",
+    "guineaPig": "Marsu",
+    "kitten": "Kissanpentu",
+    "puppy": "Koiranpentu",
+    "ferret": "Fretti",
+    "hedgehog": "Siili",
+    "chinchilla": "Chinchilla",
+    "parrot": "Papukaija",
+    "turtle": "Kilpikonna",
+    "redPanda": "Punapanda",
+    "otter": "Saukko",
+    "sugarGlider": "Liito-orava",
+    "hamsterBaby": "Hamsterinpoikanen",
+    "bunnyBaby": "Kaninpoikanen",
+    "penguin": "Pingviini",
+    "squirrel": "Orava",
+    "fox": "Kettu",
+    "seal": "Hylje",
+    "koala": "Koala"
+  },
+  "dropHere": "Pudota tähän pelataksesi!",
+  "languageSelector": "Valitse Kieli"
+} 

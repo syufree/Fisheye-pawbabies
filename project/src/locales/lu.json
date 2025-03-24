@@ -1,0 +1,28 @@
+{
+  "title": "Feschaen Hausdéieren",
+  "subtitle": "Zitt an droppt eng Déierekaart an d'Feschaenlinse fir se lieweg ze gesinn!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Kanéngchen",
+    "guineaPig": "Mierschwéngchen",
+    "kitten": "Kätzchen",
+    "puppy": "Hëndchen",
+    "ferret": "Frett",
+    "hedgehog": "Kéisécker",
+    "chinchilla": "Chinchilla",
+    "parrot": "Papagei",
+    "turtle": "Schëldkröt",
+    "redPanda": "Rout Panda",
+    "otter": "Fëschotter",
+    "sugarGlider": "Zockerflieger",
+    "hamsterBaby": "Klenge Hamster",
+    "bunnyBaby": "Klenge Kanéngchen",
+    "penguin": "Pinguin",
+    "squirrel": "Kaweechelchen",
+    "fox": "Fuuss",
+    "seal": "Robben",
+    "koala": "Koala"
+  },
+  "dropHere": "Hei droppe fir ze spillen!",
+  "languageSelector": "Sprooch wielen"
+} 

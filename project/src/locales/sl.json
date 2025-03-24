@@ -1,0 +1,28 @@
+{
+  "title": "Ribje Oko Hišni Ljubljenčki",
+  "subtitle": "Povlecite in spustite kartico živali v ribje oko objektiv, da jih vidite oživeti!",
+  "animals": {
+    "hamster": "Hrček",
+    "rabbit": "Zajec",
+    "guineaPig": "Morski Prašiček",
+    "kitten": "Mucek",
+    "puppy": "Kužek",
+    "ferret": "Dihur",
+    "hedgehog": "Jež",
+    "chinchilla": "Činčila",
+    "parrot": "Papagaj",
+    "turtle": "Želva",
+    "redPanda": "Rdeči Panda",
+    "otter": "Vidra",
+    "sugarGlider": "Sladkorni Jadrač",
+    "hamsterBaby": "Mali Hrček",
+    "bunnyBaby": "Mali Zajček",
+    "penguin": "Pingvin",
+    "squirrel": "Veverica",
+    "fox": "Lisica",
+    "seal": "Tjulenj",
+    "koala": "Koala"
+  },
+  "dropHere": "Spustite tukaj za predvajanje!",
+  "languageSelector": "Izberite Jezik"
+} 

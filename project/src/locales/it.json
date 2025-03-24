@@ -1,0 +1,28 @@
+{
+  "title": "Cuccioli Occhio di Pesce",
+  "subtitle": "Trascina e rilascia una carta animale nell'obiettivo fisheye per vederli prendere vita!",
+  "animals": {
+    "hamster": "Criceto",
+    "rabbit": "Coniglio",
+    "guineaPig": "Porcellino d'India",
+    "kitten": "Gattino",
+    "puppy": "Cucciolo",
+    "ferret": "Furetto",
+    "hedgehog": "Riccio",
+    "chinchilla": "Cincillà",
+    "parrot": "Pappagallo",
+    "turtle": "Tartaruga",
+    "redPanda": "Panda Rosso",
+    "otter": "Lontra",
+    "sugarGlider": "Petauro dello Zucchero",
+    "hamsterBaby": "Cricetino",
+    "bunnyBaby": "Coniglietto",
+    "penguin": "Pinguino",
+    "squirrel": "Scoiattolo",
+    "fox": "Volpe",
+    "seal": "Foca",
+    "koala": "Koala"
+  },
+  "dropHere": "Rilascia qui per giocare!",
+  "languageSelector": "Seleziona Lingua"
+} 

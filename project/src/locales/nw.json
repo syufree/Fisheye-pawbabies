@@ -1,0 +1,28 @@
+{
+  "title": "Fiskeøye Kjæledyr",
+  "subtitle": "Dra og slipp et dyrekort i fiskeøyelinsen for å se dem komme til live!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Kanin",
+    "guineaPig": "Marsvin",
+    "kitten": "Kattunge",
+    "puppy": "Valp",
+    "ferret": "Ilder",
+    "hedgehog": "Pinnsvin",
+    "chinchilla": "Chinchilla",
+    "parrot": "Papegøye",
+    "turtle": "Skilpadde",
+    "redPanda": "Rød Panda",
+    "otter": "Oter",
+    "sugarGlider": "Sukkerglidere",
+    "hamsterBaby": "Baby Hamster",
+    "bunnyBaby": "Baby Kanin",
+    "penguin": "Pingvin",
+    "squirrel": "Ekorn",
+    "fox": "Rev",
+    "seal": "Sel",
+    "koala": "Koala"
+  },
+  "dropHere": "Slipp her for å spille!",
+  "languageSelector": "Velg språk"
+} 

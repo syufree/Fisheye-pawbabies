@@ -1,0 +1,28 @@
+{
+  "title": "حيوانات فيش آي",
+  "subtitle": "اسحب وأفلت أي بطاقة حيوان في عدسة عين السمكة لتراهم يتحركون!",
+  "animals": {
+    "hamster": "هامستر",
+    "rabbit": "أرنب",
+    "guineaPig": "خنزير غينيا",
+    "kitten": "قطة صغيرة",
+    "puppy": "جرو",
+    "ferret": "فيريت",
+    "hedgehog": "قنفذ",
+    "chinchilla": "شينشيلا",
+    "parrot": "ببغاء",
+    "turtle": "سلحفاة",
+    "redPanda": "باندا أحمر",
+    "otter": "ثعلب الماء",
+    "sugarGlider": "سنجاب طائر",
+    "hamsterBaby": "هامستر صغير",
+    "bunnyBaby": "أرنب صغير",
+    "penguin": "بطريق",
+    "squirrel": "سنجاب",
+    "fox": "ثعلب",
+    "seal": "فقمة",
+    "koala": "كوالا"
+  },
+  "dropHere": "أفلت هنا للعب!",
+  "languageSelector": "اختر اللغة"
+} 

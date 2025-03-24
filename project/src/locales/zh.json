@@ -1,0 +1,28 @@
+{
+  "title": "魚眼萌寵",
+  "subtitle": "將任何動物卡片拖放到魚眼鏡頭中，觀看它們栩栩如生！",
+  "animals": {
+    "hamster": "倉鼠",
+    "rabbit": "兔子",
+    "guineaPig": "豚鼠",
+    "kitten": "小貓",
+    "puppy": "小狗",
+    "ferret": "雪貂",
+    "hedgehog": "刺蝟",
+    "chinchilla": "龍貓",
+    "parrot": "鸚鵡",
+    "turtle": "烏龜",
+    "redPanda": "紅熊貓",
+    "otter": "水獺",
+    "sugarGlider": "糖袋鼯",
+    "hamsterBaby": "小倉鼠",
+    "bunnyBaby": "小兔子",
+    "penguin": "企鵝",
+    "squirrel": "松鼠",
+    "fox": "狐狸",
+    "seal": "海豹",
+    "koala": "考拉"
+  },
+  "dropHere": "放在這裡播放！",
+  "languageSelector": "選擇語言"
+}

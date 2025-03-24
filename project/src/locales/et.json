@@ -1,0 +1,28 @@
+{
+  "title": "Kalasilma Lemmikloomad",
+  "subtitle": "Lohista ja aseta loomade kaart kalasilma objektiivi, et näha neid ellu ärkamas!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Küülik",
+    "guineaPig": "Merisiga",
+    "kitten": "Kassipoeg",
+    "puppy": "Kutsikas",
+    "ferret": "Tuhkur",
+    "hedgehog": "Siil",
+    "chinchilla": "Tšintšilja",
+    "parrot": "Papagoi",
+    "turtle": "Kilpkonn",
+    "redPanda": "Punane Panda",
+    "otter": "Saarmas",
+    "sugarGlider": "Suhkruliugur",
+    "hamsterBaby": "Väike Hamster",
+    "bunnyBaby": "Väike Küülik",
+    "penguin": "Pingviin",
+    "squirrel": "Orav",
+    "fox": "Rebane",
+    "seal": "Hüljes",
+    "koala": "Koaala"
+  },
+  "dropHere": "Aseta siia mängimiseks!",
+  "languageSelector": "Vali keel"
+} 

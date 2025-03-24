@@ -1,0 +1,28 @@
+{
+  "title": "Animale de Companie Ochi de Pește",
+  "subtitle": "Trage și plasează un card cu animal în lentila ochi de pește pentru a-i vedea prind viață!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Iepure",
+    "guineaPig": "Porcușor de Guineea",
+    "kitten": "Pisoi",
+    "puppy": "Cățeluș",
+    "ferret": "Dihor",
+    "hedgehog": "Arici",
+    "chinchilla": "Chinchilla",
+    "parrot": "Papagal",
+    "turtle": "Țestoasă",
+    "redPanda": "Panda Roșu",
+    "otter": "Vidră",
+    "sugarGlider": "Planor de Zahăr",
+    "hamsterBaby": "Pui de Hamster",
+    "bunnyBaby": "Pui de Iepure",
+    "penguin": "Pinguin",
+    "squirrel": "Veveriță",
+    "fox": "Vulpe",
+    "seal": "Focă",
+    "koala": "Koala"
+  },
+  "dropHere": "Plasează aici pentru a reda!",
+  "languageSelector": "Selectează Limba"
+} 

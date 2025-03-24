@@ -1,0 +1,28 @@
+{
+  "title": "Fiskeøje Kæledyr",
+  "subtitle": "Træk og slip et dyrekort i fiskeøjelinsen for at se dem komme til live!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Kanin",
+    "guineaPig": "Marsvin",
+    "kitten": "Killing",
+    "puppy": "Hvalp",
+    "ferret": "Fritte",
+    "hedgehog": "Pindsvin",
+    "chinchilla": "Chinchilla",
+    "parrot": "Papegøje",
+    "turtle": "Skildpadde",
+    "redPanda": "Rød Panda",
+    "otter": "Odder",
+    "sugarGlider": "Sukkerglidere",
+    "hamsterBaby": "Baby Hamster",
+    "bunnyBaby": "Baby Kanin",
+    "penguin": "Pingvin",
+    "squirrel": "Egern",
+    "fox": "Ræv",
+    "seal": "Sæl",
+    "koala": "Koala"
+  },
+  "dropHere": "Slip her for at spille!",
+  "languageSelector": "Vælg sprog"
+} 

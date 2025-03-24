@@ -1,0 +1,28 @@
+{
+  "title": "Halszemű Kisállatok",
+  "subtitle": "Húzd és dobd be az állatkártyát a halszemoptikába, hogy lásd őket életre kelni!",
+  "animals": {
+    "hamster": "Hörcsög",
+    "rabbit": "Nyúl",
+    "guineaPig": "Tengerimalac",
+    "kitten": "Kiscica",
+    "puppy": "Kiskutya",
+    "ferret": "Vadászgörény",
+    "hedgehog": "Sündisznó",
+    "chinchilla": "Csincsilla",
+    "parrot": "Papagáj",
+    "turtle": "Teknős",
+    "redPanda": "Vörös Panda",
+    "otter": "Vidra",
+    "sugarGlider": "Cukorsikló",
+    "hamsterBaby": "Bébi Hörcsög",
+    "bunnyBaby": "Kisnyúl",
+    "penguin": "Pingvin",
+    "squirrel": "Mókus",
+    "fox": "Róka",
+    "seal": "Fóka",
+    "koala": "Koala"
+  },
+  "dropHere": "Dobd ide a lejátszáshoz!",
+  "languageSelector": "Nyelv kiválasztása"
+} 

@@ -1,0 +1,28 @@
+{
+  "title": "ສັດລ້ຽງຕາປາ",
+  "subtitle": "ລາກແລະວາງບັດສັດໃສ່ເລນຕາປາເພື່ອເບິ່ງພວກເຂົາມີຊີວິດ!",
+  "animals": {
+    "hamster": "ໜູແຮມສະເຕີ",
+    "rabbit": "ກະຕ່າຍ",
+    "guineaPig": "ໜູກິນີ",
+    "kitten": "ແມວນ້ອຍ",
+    "puppy": "ໝານ້ອຍ",
+    "ferret": "ເຟເຣັດ",
+    "hedgehog": "ເມ່ນ",
+    "chinchilla": "ຊິນຊິລລາ",
+    "parrot": "ນົກແກ້ວ",
+    "turtle": "ເຕົ່າ",
+    "redPanda": "ແພນດ້າແດງ",
+    "otter": "ນາກ",
+    "sugarGlider": "ຊູກາໂກລເດີ",
+    "hamsterBaby": "ລູກໜູແຮມສະເຕີ",
+    "bunnyBaby": "ລູກກະຕ່າຍ",
+    "penguin": "ເພັນກວິນ",
+    "squirrel": "ກະຮອກ",
+    "fox": "ໝາຈິ້ງຈອກ",
+    "seal": "ແມວນ້ຳ",
+    "koala": "ໂກອາລາ"
+  },
+  "dropHere": "ວາງທີ່ນີ້ເພື່ອຫຼິ້ນ!",
+  "languageSelector": "ເລືອກພາສາ"
+} 

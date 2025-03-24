@@ -1,0 +1,28 @@
+{
+  "title": "Zwierzaki Rybie Oko",
+  "subtitle": "Przeciągnij i upuść kartę zwierzaka na obiektyw rybie oko, aby zobaczyć jak ożywają!",
+  "animals": {
+    "hamster": "Chomik",
+    "rabbit": "Królik",
+    "guineaPig": "Świnka Morska",
+    "kitten": "Kociak",
+    "puppy": "Szczeniak",
+    "ferret": "Fretka",
+    "hedgehog": "Jeż",
+    "chinchilla": "Szynszyla",
+    "parrot": "Papuga",
+    "turtle": "Żółw",
+    "redPanda": "Panda Czerwona",
+    "otter": "Wydra",
+    "sugarGlider": "Lotopałanka",
+    "hamsterBaby": "Mały Chomik",
+    "bunnyBaby": "Mały Królik",
+    "penguin": "Pingwin",
+    "squirrel": "Wiewiórka",
+    "fox": "Lis",
+    "seal": "Foka",
+    "koala": "Koala"
+  },
+  "dropHere": "Upuść tutaj, aby odtworzyć!",
+  "languageSelector": "Wybierz Język"
+} 

@@ -1,0 +1,28 @@
+{
+  "title": "Mascotas Ojo de Pez",
+  "subtitle": "¡Arrastra y suelta una tarjeta de animal en el lente ojo de pez para verlos cobrar vida!",
+  "animals": {
+    "hamster": "Hámster",
+    "rabbit": "Conejo",
+    "guineaPig": "Cobaya",
+    "kitten": "Gatito",
+    "puppy": "Cachorro",
+    "ferret": "Hurón",
+    "hedgehog": "Erizo",
+    "chinchilla": "Chinchilla",
+    "parrot": "Loro",
+    "turtle": "Tortuga",
+    "redPanda": "Panda Rojo",
+    "otter": "Nutria",
+    "sugarGlider": "Petauro del Azúcar",
+    "hamsterBaby": "Bebé Hámster",
+    "bunnyBaby": "Bebé Conejo",
+    "penguin": "Pingüino",
+    "squirrel": "Ardilla",
+    "fox": "Zorro",
+    "seal": "Foca",
+    "koala": "Koala"
+  },
+  "dropHere": "¡Suelta aquí para reproducir!",
+  "languageSelector": "Seleccionar idioma"
+} 

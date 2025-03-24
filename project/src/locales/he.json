@@ -1,0 +1,28 @@
+{
+  "title": "חיות מחמד עין הדג",
+  "subtitle": "גרור ושחרר כרטיס חיה לעדשת עין הדג כדי לראות אותם מתעוררים לחיים!",
+  "animals": {
+    "hamster": "אוגר",
+    "rabbit": "ארנב",
+    "guineaPig": "חזיר ים",
+    "kitten": "חתלתול",
+    "puppy": "כלבלב",
+    "ferret": "חמוס",
+    "hedgehog": "קיפוד",
+    "chinchilla": "צ'ינצ'ילה",
+    "parrot": "תוכי",
+    "turtle": "צב",
+    "redPanda": "פנדה אדום",
+    "otter": "לוטרה",
+    "sugarGlider": "גחלילן סוכר",
+    "hamsterBaby": "אוגר תינוק",
+    "bunnyBaby": "ארנבון",
+    "penguin": "פינגווין",
+    "squirrel": "סנאי",
+    "fox": "שועל",
+    "seal": "כלב ים",
+    "koala": "קואלה"
+  },
+  "dropHere": "שחרר כאן כדי לשחק!",
+  "languageSelector": "בחר שפה"
+} 

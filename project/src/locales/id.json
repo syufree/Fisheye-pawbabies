@@ -1,0 +1,28 @@
+{
+  "title": "Fisheye Hewan Peliharaan",
+  "subtitle": "Seret dan lepaskan kartu hewan ke lensa fisheye untuk melihat mereka hidup!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Kelinci",
+    "guineaPig": "Marmut",
+    "kitten": "Anak Kucing",
+    "puppy": "Anak Anjing",
+    "ferret": "Musang",
+    "hedgehog": "Landak Mini",
+    "chinchilla": "Chinchilla",
+    "parrot": "Burung Nuri",
+    "turtle": "Kura-kura",
+    "redPanda": "Panda Merah",
+    "otter": "Berang-berang",
+    "sugarGlider": "Sugar Glider",
+    "hamsterBaby": "Bayi Hamster",
+    "bunnyBaby": "Bayi Kelinci",
+    "penguin": "Penguin",
+    "squirrel": "Tupai",
+    "fox": "Rubah",
+    "seal": "Anjing Laut",
+    "koala": "Koala"
+  },
+  "dropHere": "Lepaskan di sini untuk bermain!",
+  "languageSelector": "Pilih Bahasa"
+} 

@@ -1,0 +1,28 @@
+{
+  "title": "Riblje Oko Ljubimci",
+  "subtitle": "Povucite i ispustite karticu životinje u objektiv ribljeg oka da ih vidite kako ožive!",
+  "animals": {
+    "hamster": "Hrčak",
+    "rabbit": "Zec",
+    "guineaPig": "Zamorac",
+    "kitten": "Mačić",
+    "puppy": "Štene",
+    "ferret": "Tvor",
+    "hedgehog": "Jež",
+    "chinchilla": "Činčila",
+    "parrot": "Papiga",
+    "turtle": "Kornjača",
+    "redPanda": "Crvena Panda",
+    "otter": "Vidra",
+    "sugarGlider": "Šećerni Letač",
+    "hamsterBaby": "Mali Hrčak",
+    "bunnyBaby": "Mali Zec",
+    "penguin": "Pingvin",
+    "squirrel": "Vjeverica",
+    "fox": "Lisica",
+    "seal": "Tuljan",
+    "koala": "Koala"
+  },
+  "dropHere": "Ispustite ovdje za igru!",
+  "languageSelector": "Odaberite jezik"
+} 

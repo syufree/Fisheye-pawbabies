@@ -1,0 +1,28 @@
+{
+  "title": "Bébés Animaux Fisheye",
+  "subtitle": "Faites glisser et déposez une carte d'animal dans la lentille fisheye pour les voir prendre vie !",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Lapin",
+    "guineaPig": "Cochon d'Inde",
+    "kitten": "Chaton",
+    "puppy": "Chiot",
+    "ferret": "Furet",
+    "hedgehog": "Hérisson",
+    "chinchilla": "Chinchilla",
+    "parrot": "Perroquet",
+    "turtle": "Tortue",
+    "redPanda": "Panda Roux",
+    "otter": "Loutre",
+    "sugarGlider": "Phalanger Volant",
+    "hamsterBaby": "Bébé Hamster",
+    "bunnyBaby": "Bébé Lapin",
+    "penguin": "Pingouin",
+    "squirrel": "Écureuil",
+    "fox": "Renard",
+    "seal": "Phoque",
+    "koala": "Koala"
+  },
+  "dropHere": "Déposez ici pour jouer !",
+  "languageSelector": "Sélectionner la langue"
+} 

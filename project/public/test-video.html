@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Test</title>
+</head>
+<body>
+    <h2>Test Video Playback</h2>
+    <div>Current path: <script>document.write(window.location.pathname)</script></div>
+    <video
+        src="./fisheye-pawbabies/videos/hamster.mp4"
+        width="400"
+        controls
+        autoplay
+        muted
+    ></video>
+    <div>
+        <h3>Alternative video tag:</h3>
+        <video
+            width="400"
+            controls
+            autoplay
+            muted
+        >
+            <source src="./fisheye-pawbabies/videos/hamster.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</body>
+</html> 

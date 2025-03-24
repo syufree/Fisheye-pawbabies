@@ -1,0 +1,28 @@
+{
+  "title": "Fisheye Pawbabies",
+  "subtitle": "Drag and drop any animal card into the fisheye lens to watch them come alive!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Rabbit",
+    "guineaPig": "Guinea Pig",
+    "kitten": "Kitten",
+    "puppy": "Puppy",
+    "ferret": "Ferret",
+    "hedgehog": "Hedgehog",
+    "chinchilla": "Chinchilla",
+    "parrot": "Parrot",
+    "turtle": "Turtle",
+    "redPanda": "Red Panda",
+    "otter": "Otter",
+    "sugarGlider": "Sugar Glider",
+    "hamsterBaby": "Baby Hamster",
+    "bunnyBaby": "Baby Bunny",
+    "penguin": "Penguin",
+    "squirrel": "Squirrel",
+    "fox": "Fox",
+    "seal": "Seal",
+    "koala": "Koala"
+  },
+  "dropHere": "Drop here to play!",
+  "languageSelector": "Select Language"
+}

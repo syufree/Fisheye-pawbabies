@@ -1,0 +1,28 @@
+{
+  "title": "Fisheye na mga Alagang Hayop",
+  "subtitle": "I-drag at i-drop ang anumang card ng hayop sa fisheye lens para makita silang mabuhay!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Kuneho",
+    "guineaPig": "Guinea Pig",
+    "kitten": "Kuting",
+    "puppy": "Tuta",
+    "ferret": "Ferret",
+    "hedgehog": "Hedgehog",
+    "chinchilla": "Chinchilla",
+    "parrot": "Loro",
+    "turtle": "Pagong",
+    "redPanda": "Pulang Panda",
+    "otter": "Otter",
+    "sugarGlider": "Sugar Glider",
+    "hamsterBaby": "Baby Hamster",
+    "bunnyBaby": "Baby na Kuneho",
+    "penguin": "Penguin",
+    "squirrel": "Squirrel",
+    "fox": "Soro",
+    "seal": "Seal",
+    "koala": "Koala"
+  },
+  "dropHere": "I-drop dito para maglaro!",
+  "languageSelector": "Piliin ang Wika"
+} 

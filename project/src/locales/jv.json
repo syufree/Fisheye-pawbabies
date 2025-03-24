@@ -1,0 +1,28 @@
+{
+  "title": "Kewan Ngingu Mripat Iwak",
+  "subtitle": "Seret lan selehke kartu kewan menyang lensa mripat iwak kanggo ndeleng dheweke urip!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Kelinci",
+    "guineaPig": "Marmut",
+    "kitten": "Kucing Cilik",
+    "puppy": "Asu Cilik",
+    "ferret": "Ferret",
+    "hedgehog": "Landak",
+    "chinchilla": "Chinchilla",
+    "parrot": "Manuk Beo",
+    "turtle": "Penyu",
+    "redPanda": "Panda Abang",
+    "otter": "Berang-berang",
+    "sugarGlider": "Sugar Glider",
+    "hamsterBaby": "Bayi Hamster",
+    "bunnyBaby": "Bayi Kelinci",
+    "penguin": "Penguin",
+    "squirrel": "Bajing",
+    "fox": "Rubah",
+    "seal": "Anjing Laut",
+    "koala": "Koala"
+  },
+  "dropHere": "Selehke ing kene kanggo main!",
+  "languageSelector": "Pilih Basa"
+} 

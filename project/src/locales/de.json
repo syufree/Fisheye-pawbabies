@@ -1,0 +1,28 @@
+{
+  "title": "Fisheye Tierbabys",
+  "subtitle": "Ziehe eine Tierkarte in das Fischauge-Objektiv und sieh zu, wie sie zum Leben erwacht!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Kaninchen",
+    "guineaPig": "Meerschweinchen",
+    "kitten": "Kätzchen",
+    "puppy": "Welpe",
+    "ferret": "Frettchen",
+    "hedgehog": "Igel",
+    "chinchilla": "Chinchilla",
+    "parrot": "Papagei",
+    "turtle": "Schildkröte",
+    "redPanda": "Roter Panda",
+    "otter": "Otter",
+    "sugarGlider": "Kurzkopfgleitbeutler",
+    "hamsterBaby": "Baby Hamster",
+    "bunnyBaby": "Baby Kaninchen",
+    "penguin": "Pinguin",
+    "squirrel": "Eichhörnchen",
+    "fox": "Fuchs",
+    "seal": "Robbe",
+    "koala": "Koala"
+  },
+  "dropHere": "Hier ablegen zum Abspielen!",
+  "languageSelector": "Sprache auswählen"
+} 

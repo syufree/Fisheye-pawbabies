@@ -1,0 +1,28 @@
+{
+  "title": "Thú Cưng Mắt Cá",
+  "subtitle": "Kéo và thả thẻ động vật vào ống kính mắt cá để xem chúng sống động!",
+  "animals": {
+    "hamster": "Chuột Hamster",
+    "rabbit": "Thỏ",
+    "guineaPig": "Chuột Lang",
+    "kitten": "Mèo Con",
+    "puppy": "Chó Con",
+    "ferret": "Chồn Sóc",
+    "hedgehog": "Nhím",
+    "chinchilla": "Sóc Chinchilla",
+    "parrot": "Vẹt",
+    "turtle": "Rùa",
+    "redPanda": "Gấu Trúc Đỏ",
+    "otter": "Rái Cá",
+    "sugarGlider": "Sóc Bay",
+    "hamsterBaby": "Hamster Con",
+    "bunnyBaby": "Thỏ Con",
+    "penguin": "Chim Cánh Cụt",
+    "squirrel": "Sóc",
+    "fox": "Cáo",
+    "seal": "Hải Cẩu",
+    "koala": "Gấu Koala"
+  },
+  "dropHere": "Thả vào đây để chơi!",
+  "languageSelector": "Chọn Ngôn Ngữ"
+} 

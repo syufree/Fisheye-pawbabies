@@ -1,0 +1,28 @@
+{
+  "title": "Bebês Pets Olho de Peixe",
+  "subtitle": "Arraste e solte qualquer cartão de animal na lente olho de peixe para vê-los ganhar vida!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Coelho",
+    "guineaPig": "Porquinho da Índia",
+    "kitten": "Gatinho",
+    "puppy": "Cachorrinho",
+    "ferret": "Furão",
+    "hedgehog": "Ouriço",
+    "chinchilla": "Chinchila",
+    "parrot": "Papagaio",
+    "turtle": "Tartaruga",
+    "redPanda": "Panda Vermelho",
+    "otter": "Lontra",
+    "sugarGlider": "Petauro do Açúcar",
+    "hamsterBaby": "Bebê Hamster",
+    "bunnyBaby": "Bebê Coelho",
+    "penguin": "Pinguim",
+    "squirrel": "Esquilo",
+    "fox": "Raposa",
+    "seal": "Foca",
+    "koala": "Coala"
+  },
+  "dropHere": "Solte aqui para jogar!",
+  "languageSelector": "Selecionar idioma"
+} 

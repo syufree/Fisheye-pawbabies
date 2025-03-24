@@ -1,0 +1,28 @@
+{
+  "title": "Visoog Huisdieren",
+  "subtitle": "Sleep een dierenkaart naar de visooglens om ze tot leven te zien komen!",
+  "animals": {
+    "hamster": "Hamster",
+    "rabbit": "Konijn",
+    "guineaPig": "Cavia",
+    "kitten": "Kitten",
+    "puppy": "Puppy",
+    "ferret": "Fret",
+    "hedgehog": "Egel",
+    "chinchilla": "Chinchilla",
+    "parrot": "Papegaai",
+    "turtle": "Schildpad",
+    "redPanda": "Rode Panda",
+    "otter": "Otter",
+    "sugarGlider": "Suikereekhoorntje",
+    "hamsterBaby": "Baby Hamster",
+    "bunnyBaby": "Baby Konijn",
+    "penguin": "Pinguïn",
+    "squirrel": "Eekhoorn",
+    "fox": "Vos",
+    "seal": "Zeehond",
+    "koala": "Koala"
+  },
+  "dropHere": "Laat hier los om te spelen!",
+  "languageSelector": "Selecteer taal"
+} 

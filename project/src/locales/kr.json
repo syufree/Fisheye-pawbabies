@@ -1,0 +1,28 @@
+{
+  "title": "어안 렌즈 반려동물",
+  "subtitle": "동물 카드를 어안 렌즈에 드래그 앤 드롭하여 생동감 있게 만나보세요!",
+  "animals": {
+    "hamster": "햄스터",
+    "rabbit": "토끼",
+    "guineaPig": "기니피그",
+    "kitten": "새끼 고양이",
+    "puppy": "강아지",
+    "ferret": "페럿",
+    "hedgehog": "고슴도치",
+    "chinchilla": "친칠라",
+    "parrot": "앵무새",
+    "turtle": "거북이",
+    "redPanda": "레서판다",
+    "otter": "수달",
+    "sugarGlider": "슈가글라이더",
+    "hamsterBaby": "아기 햄스터",
+    "bunnyBaby": "아기 토끼",
+    "penguin": "펭귄",
+    "squirrel": "다람쥐",
+    "fox": "여우",
+    "seal": "물개",
+    "koala": "코알라"
+  },
+  "dropHere": "여기에 놓아서 재생하세요!",
+  "languageSelector": "언어 선택"
+} 

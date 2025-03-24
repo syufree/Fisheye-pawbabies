@@ -1,0 +1,28 @@
+{
+  "title": "Rybí Oko Mazlíčci",
+  "subtitle": "Přetáhněte libovolnou kartu zvířete do objektivu rybího oka a sledujte, jak ožívají!",
+  "animals": {
+    "hamster": "Křeček",
+    "rabbit": "Králík",
+    "guineaPig": "Morče",
+    "kitten": "Kotě",
+    "puppy": "Štěně",
+    "ferret": "Fretka",
+    "hedgehog": "Ježek",
+    "chinchilla": "Činčila",
+    "parrot": "Papoušek",
+    "turtle": "Želva",
+    "redPanda": "Červená Panda",
+    "otter": "Vydra",
+    "sugarGlider": "Vakoveverka",
+    "hamsterBaby": "Malý Křeček",
+    "bunnyBaby": "Malý Králík",
+    "penguin": "Tučňák",
+    "squirrel": "Veverka",
+    "fox": "Liška",
+    "seal": "Tuleň",
+    "koala": "Koala"
+  },
+  "dropHere": "Pusťte zde pro přehrání!",
+  "languageSelector": "Vyberte jazyk"
+} 

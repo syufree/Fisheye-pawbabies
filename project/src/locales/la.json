@@ -1,0 +1,28 @@
+{
+  "title": "Zivs Acs Mājdzīvnieki",
+  "subtitle": "Velciet un nometiet jebkuru dzīvnieku karti zivs acs objektīvā, lai redzētu tos atdzīvojamies!",
+  "animals": {
+    "hamster": "Kāmis",
+    "rabbit": "Trusis",
+    "guineaPig": "Jūras Cūciņa",
+    "kitten": "Kaķēns",
+    "puppy": "Kucēns",
+    "ferret": "Sesks",
+    "hedgehog": "Ezis",
+    "chinchilla": "Šinšilla",
+    "parrot": "Papagailis",
+    "turtle": "Bruņurupucis",
+    "redPanda": "Sarkanā Panda",
+    "otter": "Ūdrs",
+    "sugarGlider": "Cukura Planētājs",
+    "hamsterBaby": "Mazs Kāmītis",
+    "bunnyBaby": "Mazs Trusītis",
+    "penguin": "Pingvīns",
+    "squirrel": "Vāvere",
+    "fox": "Lapsa",
+    "seal": "Ronis",
+    "koala": "Koala"
+  },
+  "dropHere": "Nometiet šeit, lai spēlētu!",
+  "languageSelector": "Izvēlieties Valodu"
+} 

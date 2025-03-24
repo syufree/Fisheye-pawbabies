@@ -1,0 +1,28 @@
+{
+  "title": "フィッシュアイペット",
+  "subtitle": "動物カードをフィッシュアイレンズにドラッグ＆ドロップして、生き生きとした姿をご覧ください！",
+  "animals": {
+    "hamster": "ハムスター",
+    "rabbit": "ウサギ",
+    "guineaPig": "モルモット",
+    "kitten": "子猫",
+    "puppy": "子犬",
+    "ferret": "フェレット",
+    "hedgehog": "ハリネズミ",
+    "chinchilla": "チンチラ",
+    "parrot": "オウム",
+    "turtle": "カメ",
+    "redPanda": "レッサーパンダ",
+    "otter": "カワウソ",
+    "sugarGlider": "フクロモモンガ",
+    "hamsterBaby": "赤ちゃんハムスター",
+    "bunnyBaby": "赤ちゃんウサギ",
+    "penguin": "ペンギン",
+    "squirrel": "リス",
+    "fox": "キツネ",
+    "seal": "アザラシ",
+    "koala": "コアラ"
+  },
+  "dropHere": "ここにドロップして再生！",
+  "languageSelector": "言語を選択"
+} 
